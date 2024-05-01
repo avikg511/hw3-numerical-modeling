@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "C64DCB1A-3C9A-4119-8A6F-BCB43B520F82"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DEE2C089-E6E7-4C44-AACB-F2B9859E05FC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "homework3/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "main(argc, argv)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B1C16DB6-2188-4D70-8C63-0CEF5801FDFE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DiffusionModel.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "124"
+            endingLineNumber = "124"
+            landmarkName = "DiffusionModel::RunPureForwardEuler()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B1C16DB6-2188-4D70-8C63-0CEF5801FDFE - 66864bd8b63b4107"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DiffusionModel::RunPureForwardEuler()"
+                  moduleName = "homework3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aghos/Documents/CPPWork/sioc224/homework3/DiffusionModel.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "117"
+                  endingLineNumber = "117"
+                  offsetFromSymbolStart = "1068">
+               </Location>
+               <Location
+                  uuid = "B1C16DB6-2188-4D70-8C63-0CEF5801FDFE - 66864bd8b63b4107"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DiffusionModel::RunPureForwardEuler()"
+                  moduleName = "homework3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aghos/Documents/CPPWork/sioc224/homework3/DiffusionModel.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "117"
+                  endingLineNumber = "117"
+                  offsetFromSymbolStart = "1092">
+               </Location>
+               <Location
+                  uuid = "B1C16DB6-2188-4D70-8C63-0CEF5801FDFE - 66864bd8b63b4107"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DiffusionModel::RunPureForwardEuler()"
+                  moduleName = "homework3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aghos/Documents/CPPWork/sioc224/homework3/DiffusionModel.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "117"
+                  endingLineNumber = "117"
+                  offsetFromSymbolStart = "1080">
+               </Location>
+               <Location
+                  uuid = "B1C16DB6-2188-4D70-8C63-0CEF5801FDFE - 66864bd8b63b403c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DiffusionModel::RunPureForwardEuler()"
+                  moduleName = "homework3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aghos/Documents/CPPWork/sioc224/homework3/DiffusionModel.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "124"
+                  endingLineNumber = "124"
+                  offsetFromSymbolStart = "1152">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "23484D48-975F-4B2C-93C6-E3646F26D0F5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DiffusionModel.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "110"
+            endingLineNumber = "110"
+            landmarkName = "DiffusionModel::RunPureForwardEuler()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "23484D48-975F-4B2C-93C6-E3646F26D0F5 - 66864bd8b63bbf37"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DiffusionModel::RunPureForwardEuler()"
+                  moduleName = "homework3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aghos/Documents/CPPWork/sioc224/homework3/DiffusionModel.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "101"
+                  endingLineNumber = "101"
+                  offsetFromSymbolStart = "608">
+               </Location>
+               <Location
+                  uuid = "23484D48-975F-4B2C-93C6-E3646F26D0F5 - 66864bd8b63bbf37"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DiffusionModel::RunPureForwardEuler()"
+                  moduleName = "homework3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aghos/Documents/CPPWork/sioc224/homework3/DiffusionModel.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "101"
+                  endingLineNumber = "101"
+                  offsetFromSymbolStart = "616">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2D7C8601-6CC4-4518-AA1D-A2A09CBBB4E3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DiffusionModel.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "215"
+            endingLineNumber = "215"
+            landmarkName = "DiffusionModel::outputData(outputFile, pointsOfInterest)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

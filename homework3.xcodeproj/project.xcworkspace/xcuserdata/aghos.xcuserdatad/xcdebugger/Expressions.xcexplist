@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "DiffusionModel::outputData(std::__1::__fs::filesystem::path, std::__1::vector&lt;int, std::__1::allocator&lt;int&gt;&gt;):DiffusionModel.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "DiffusionModel::calcIndex(ind, int(std::distance(this-&gt;timeSeries.begin(), it)))">
+            </PersistentString>
+            <PersistentString
+               value = "std::distance(this-&gt;timeSeries.begin(), it)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "DiffusionModel::RunPureForwardEuler():DiffusionModel.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "alpha * xNPlus1TMinus1 + beta * xNTMinus1 + gamma * xNMinus1TMinus1">
+            </PersistentString>
+            <PersistentString
+               value = "data">
+            </PersistentString>
+            <PersistentString
+               value = "del">
+            </PersistentString>
+            <PersistentString
+               value = "calcIndex(spatialPoints - 1, tMinus1 - 1)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
