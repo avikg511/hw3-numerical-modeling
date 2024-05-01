@@ -25,6 +25,7 @@
 
 /* Begin PBXFileReference section */
 		FA5028642BE1F9490090A06E /* FELFrogMixData.csv */ = {isa = PBXFileReference; lastKnownFileType = text; name = FELFrogMixData.csv; path = homework3/FELFrogMixData.csv; sourceTree = "<group>"; };
+		FA5028652BE2440C0090A06E /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		FAB166122BE1839E0039569D /* homework3 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = homework3; sourceTree = BUILT_PRODUCTS_DIR; };
 		FAB166152BE1839E0039569D /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		FAB1661C2BE1850B0039569D /* DiffusionModel.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = DiffusionModel.cpp; sourceTree = "<group>"; };
@@ -47,6 +48,7 @@
 		FAB166092BE1839E0039569D = {
 			isa = PBXGroup;
 			children = (
+				FA5028652BE2440C0090A06E /* README.md */,
 				FA5028642BE1F9490090A06E /* FELFrogMixData.csv */,
 				FAB166202BE188440039569D /* build.sh */,
 				FAB1661F2BE1862B0039569D /* FEData.csv */,
