@@ -31,7 +31,7 @@
 		FAB1661C2BE1850B0039569D /* DiffusionModel.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = DiffusionModel.cpp; sourceTree = "<group>"; };
 		FAB1661D2BE1850B0039569D /* DiffusionModel.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = DiffusionModel.hpp; sourceTree = "<group>"; };
 		FAB1661F2BE1862B0039569D /* FEData.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = FEData.csv; path = homework3/FEData.csv; sourceTree = "<group>"; };
-		FAB166202BE188440039569D /* build.sh */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.sh; name = build.sh; path = homework3/build.sh; sourceTree = "<group>"; };
+		FAB166202BE188440039569D /* plot.sh */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.sh; name = plot.sh; path = homework3/plot.sh; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -45,15 +45,30 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		FA512BD62BE5E29B0028BC0D /* inc */ = {
+			isa = PBXGroup;
+			children = (
+				FAB1661D2BE1850B0039569D /* DiffusionModel.hpp */,
+			);
+			path = inc;
+			sourceTree = "<group>";
+		};
+		FA512BD72BE5E2A20028BC0D /* src */ = {
+			isa = PBXGroup;
+			children = (
+				FAB166152BE1839E0039569D /* main.cpp */,
+				FAB1661C2BE1850B0039569D /* DiffusionModel.cpp */,
+			);
+			path = src;
+			sourceTree = "<group>";
+		};
 		FAB166092BE1839E0039569D = {
 			isa = PBXGroup;
 			children = (
 				FA5028652BE2440C0090A06E /* README.md */,
 				FA5028642BE1F9490090A06E /* FELFrogMixData.csv */,
-				FAB166202BE188440039569D /* build.sh */,
+				FAB166202BE188440039569D /* plot.sh */,
 				FAB1661F2BE1862B0039569D /* FEData.csv */,
-				FAB1661C2BE1850B0039569D /* DiffusionModel.cpp */,
-				FAB1661D2BE1850B0039569D /* DiffusionModel.hpp */,
 				FAB166142BE1839E0039569D /* homework3 */,
 				FAB166132BE1839E0039569D /* Products */,
 			);
@@ -70,7 +85,8 @@
 		FAB166142BE1839E0039569D /* homework3 */ = {
 			isa = PBXGroup;
 			children = (
-				FAB166152BE1839E0039569D /* main.cpp */,
+				FA512BD72BE5E2A20028BC0D /* src */,
+				FA512BD62BE5E29B0028BC0D /* inc */,
 			);
 			path = homework3;
 			sourceTree = "<group>";

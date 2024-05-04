@@ -12,39 +12,20 @@ Also, double check your scheme using Product >> Scheme >> Edit Scheme >> Options
 ## File Tree:
 ```
 .
-├── DiffusionModel.cpp
-├── DiffusionModel.hpp
 ├── LICENSE
 ├── README.md
 ├── homework3
 │   ├── FEData.csv
 │   ├── FELFrogMixData.csv
-│   ├── build.sh
-│   └── main.cpp
+│   ├── inc
+│   │   └── DiffusionModel.hpp
+│   ├── plot.sh
+│   └── src
+│       ├── DiffusionModel.cpp
+│       └── main.cpp
 └── homework3.xcodeproj
-    ├── project.pbxproj
-    ├── project.xcworkspace
-    │   ├── contents.xcworkspacedata
-    │   ├── xcshareddata
-    │   │   ├── IDEWorkspaceChecks.plist
-    │   │   └── swiftpm
-    │   │       └── configuration
-    │   └── xcuserdata
-    │       └── aghos.xcuserdatad
-    │           ├── UserInterfaceState.xcuserstate
-    │           └── xcdebugger
-    │               └── Expressions.xcexplist
-    ├── xcshareddata
-    │   └── xcschemes
-    │       └── homework3.xcscheme
-    └── xcuserdata
-        └── aghos.xcuserdatad
-            ├── xcdebugger
-            │   └── Breakpoints_v2.xcbkptlist
-            └── xcschemes
-                └── xcschememanagement.plist
+    ├── ...
 
-16 directories, 16 files
-
+18 directories, 16 files
 ```
 
